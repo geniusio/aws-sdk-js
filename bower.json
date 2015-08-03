@@ -5,5 +5,5 @@
     "scripts", "tasks", "test", "Gemfile*", "configuration*",
     "Rakefile", "package.json", "testem.json", ".*", "index.js"
   ],
-  "main": "dist/aws-sdk.js"
+  "main": "dist/aws-sdk.min.js"
 }
